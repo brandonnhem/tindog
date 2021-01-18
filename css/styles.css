@@ -184,7 +184,11 @@ p {
 }
 
 @media (max-width: 1028px) {
-    #title {
+    .big-heading {
+        text-align: center;
+    }
+    
+    .button-section {
         text-align: center;
     }
 
@@ -192,5 +196,9 @@ p {
         position: static;
         transform: rotate(0);
         width: 50%;
+    }
+
+    .title-image-section {
+        text-align: center;
     }
 }
