@@ -1,1 +1,2 @@
-TinDog Starting Files
+# TinDog - Tinder for Dogs
+Website created by following along lessons on [appbrewery.co](www.appbrewery.co). In which we learned about Bootstrap, its components and layouts, and creating *reponsive* websites that work for all screen sizes.
